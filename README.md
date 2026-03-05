@@ -1,4 +1,4 @@
-# 💫 About Me:
+About Me:
 🧠 Future AI/ML engineer in the making.<br>👀 Exploring programming, algorithms, and technology.<br>learning Python and software development fundamentals.<br>Passionate about building things with code.<br>Turning curiosity into projects.
 
 
